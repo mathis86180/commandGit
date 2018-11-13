@@ -29,3 +29,5 @@ git commit -m "commentaire"
 
 ![](https://github.com/mathis86180/commandGit/blob/master/KrakenEcran.png)
 Pour voir mon travail voici un [lien vers mon GitHub](https://github.com/mathis86180) 
+
+### modificiation via ARichaudeau
